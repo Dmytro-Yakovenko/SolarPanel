@@ -1,0 +1,6 @@
+panelId,section,row,column,yearInstalled,material,isTracking
+1,Upper,3,3,2022,AMORPHOUS_SILLICON,true
+2,left side,2,2,2019,COPPER_INDIUM_GALLIUM_SELENIDE,false
+3,Main,3,3,2010,AMORPHOUS_SILLICON,true
+4,Main,2,2,2020,CADMIUM_TELLURIDE,true
+5,DownHill,1,1,2020,MULTICRYSTALLINE_SILLICON,true
